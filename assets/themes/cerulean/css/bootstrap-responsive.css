@@ -112,13 +112,17 @@
     margin: 0;
   }
 }
-@media (min-width: 768px) and (max-width: 979px) {
-  /*added by geevi */
+
+@media (min-width:768px) {
+ /*added by geevi */
   blockquote {
-	  padding: 10px 15px;
-	  margin: 25px;
-	  border: 5px solid #eeeeee;
+    padding: 10px 15px;
+    margin: 25px;
+    border: 5px solid #eeeeee;
   }
+}
+
+@media (min-width: 768px) and (max-width: 979px) {
   
   .row {
     margin-left: -20px;
