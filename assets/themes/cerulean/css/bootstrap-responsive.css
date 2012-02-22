@@ -631,5 +631,10 @@ div.span4 {
   text-align: left;
 }
 
+blockquote {
+padding: 10px 15px;
+margin: 25px;
+border: 5px solid #eeeeee;
+}
 
 
