@@ -408,6 +408,10 @@ margin-bottom: 5px;
   border: 1px solid #ddd;
 }
 
+blockquote {
+ margin: 20px 0px;
+}
+
 @media (min-width:760px) {
   blockquote {
    padding: 10px 15px;
@@ -644,11 +648,6 @@ div.span10 {
 h1 {
   text-align: center;
 }
-
-strong {
-  color: #317eac;
-}
-
 
 
 div.content div.row {
