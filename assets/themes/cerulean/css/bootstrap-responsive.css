@@ -431,7 +431,7 @@ padding: 10px;
 } 
 
 @media (min-width: 980px) {
-  p,a,address,div.span10,li {
+  p,a,address,div.span10,li,table {
     font-size: 16px;
     line-height: 28px;	
   }
