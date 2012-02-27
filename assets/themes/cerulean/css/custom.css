@@ -93,7 +93,7 @@ div.span10,div.span14 {
   max-width: 800px;
 }
 
-div.span4 {
+div.span4,div.span6 {
   text-align: left;
 }
 
